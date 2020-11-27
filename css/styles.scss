@@ -60,6 +60,7 @@ button:focus {
   grid-template-columns: 1fr;
   background-image:url("../images/bkg.svg");
   background-size:cover;
+  background-repeat:no-repeat;
   background-position:center;
   height:100vh;
 }
